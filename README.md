@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiwanay
 - 👀 I’m interested in creating games
 - 🌱 I’m currently learning Javascript & 3D modeling
-- 📫 How to reach me: [telegram.me/chi_wanay](https://telegram.me/chi_wanay)
+- 📫 How to reach me: [telegram](https://telegram.me/chi_wanay)
 - 😄 Pronouns: He/Him
